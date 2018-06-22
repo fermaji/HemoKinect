@@ -16,8 +16,8 @@ Recommended Hardware Configuration:
 *	64-bit (x64) processor
 *	4 GB Memory (or more)
 *	Physical dual-core 3.1 GHz (2 logical cores per physical) or faster processor
-*	USB 3.0 controller dedicated to the Kinect for Windows v2 sensor*
-*	DX11 capable graphics adapter**
+*	USB 3.0 controller dedicated to the Kinect for Windows v2 sensor
+*	DX11 capable graphics adapter
 
 ## Dependencies
 
