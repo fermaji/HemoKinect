@@ -1,8 +1,9 @@
-# HemoKinect
+
+#  HemoKinect
 
 ### Exercises for patients with haemophilia using Kinect V2.
 
-### Version: 1.0 (June 2018)
+###  Version: 1.0 (June 2018)
 
 ### Author: Fernando Mateo
 
